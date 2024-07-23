@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: Aarquetipo
+  server:
+    port: 8080
+
+springdoc:
+  api-docs:
+    title: Mi asasas
+    description: Documentación de la API de Mi Aplicación
+    version: OPENAPI_3_0
+  swagger-ui:
+    title: Mi API Swagger UI
